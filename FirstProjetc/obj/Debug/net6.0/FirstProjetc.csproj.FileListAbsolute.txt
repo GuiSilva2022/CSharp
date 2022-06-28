@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\bin\Debug\net6.0\FirstProjetc.exe
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\bin\Debug\net6.0\FirstProjetc.deps.json
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\bin\Debug\net6.0\FirstProjetc.runtimeconfig.json
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\bin\Debug\net6.0\FirstProjetc.dll
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\bin\Debug\net6.0\FirstProjetc.pdb
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.dll
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\refint\FirstProjetc.dll
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.pdb
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\ref\FirstProjetc.dll
