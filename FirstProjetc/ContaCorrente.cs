@@ -4,9 +4,9 @@
     public int Agencia; 
     public int Numero;
     public double Saldo; 
- //
 
-    public ContaCorrente (string Titular, int Agencia, int Numero, double Saldo){
+
+ public ContaCorrente (string Titular, int Agencia, int Numero, double Saldo){   
 
     this.Titular = Titular;
     this.Agencia = Agencia;
@@ -15,6 +15,8 @@
 
  }
 }
+
+//String Construtor, This representa o objeto
 
 
  

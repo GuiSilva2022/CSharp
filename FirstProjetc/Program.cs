@@ -11,7 +11,7 @@
 
 
             Console.WriteLine("A conta é do (a) " + conta_first1.Titular + ", a agência é " + conta_first1.Agencia + " e o número é " + conta_first1.Numero + ".");
-            Console.WriteLine("A conta é do (a) " + conta_first2.Titular + ", a agência é " + conta_first2.Agencia + " e o número é " + conta_first2.Numero + ".");
+            Console.WriteLine("A conta é do (a) " + conta_first2.Titular + ", a  agência é " + conta_first2.Agencia + " e o número é " + conta_first2.Numero + ".");
             Console.WriteLine("A conta é do (a) " + conta_first3.Titular + ", a agência é "  + conta_first3.Agencia + " e o número é " + conta_first3.Numero + ".");
         }
     }
