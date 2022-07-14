@@ -13,3 +13,11 @@ C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CShar
 C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.pdb
 C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.genruntimeconfig.cache
 C:\Users\Aluno\OneDrive - Escola Técnica de Eletrônica\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\ref\FirstProjetc.dll
+C:\Users\guica\OneDrive\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.csproj.AssemblyReference.cache
+C:\Users\guica\OneDrive\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\OneDrive\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.AssemblyInfoInputs.cache
+C:\Users\guica\OneDrive\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.AssemblyInfo.cs
+C:\Users\guica\OneDrive\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.csproj.CoreCompileInputs.cache
+C:\Users\guica\OneDrive\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.dll
+C:\Users\guica\OneDrive\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\refint\FirstProjetc.dll
+C:\Users\guica\OneDrive\Área de Trabalho\CSharp\FirstProjetc\obj\Debug\net6.0\FirstProjetc.pdb

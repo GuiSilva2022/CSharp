@@ -22,6 +22,14 @@
             return false;
 
         }
+         public bool Depositar (double valorDeposito){
+           if (this.Depositar >= valorDepositar){
+               this.Depositar = this.Depositar - valorDeposito;
+            return true;
+        }
+            return false;
+
+        }
        
 }
 

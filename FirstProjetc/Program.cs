@@ -21,6 +21,14 @@
         Console.WriteLine("A conta é do (a) " + conta_first1.Titular + ", a agência é " + conta_first1.Agencia + " e o número é " + conta_first1.Numero +  " Saldo: " + conta_first1.Saldo);
         Console.WriteLine("A conta é do (a) " + conta_first2.Titular + ", a agência é " + conta_first2.Agencia + " e o número é " + conta_first2.Numero +  " Saldo: " + conta_first2.Saldo);
         Console.WriteLine("A conta é do (a) " + conta_first3.Titular + ", a agência é "  + conta_first3.Agencia + " e o número é " + conta_first3.Numero+  " Saldo: " + conta_first3.Saldo);
+
+            bool depositar_conta = conta_first1.Depositar(50);
+            bool depositar_conta = conta_first2.Depositar(50);
+            bool depositar_conta = conta_first3.Depositar(50);
+
+        Console.WriteLine("A conta é do (a) " + conta_first1.Titular + ", a agência é " + conta_first1.Agencia + " e o número é " + conta_first1.Numero +  " Saldo: " + conta_first1.Saldo+ "Deposito: " + conta_first1.Depositar);
+        Console.WriteLine("A conta é do (a) " + conta_first2.Titular + ", a agência é " + conta_first2.Agencia + " e o número é " + conta_first2.Numero +  " Saldo: " + conta_first2.Saldo+ "Deposito: " + conta_first2.Depositar);
+        Console.WriteLine("A conta é do (a) " + conta_first3.Titular + ", a agência é "  + conta_first3.Agencia + " e o número é " + conta_first3.Numero+  " Saldo: " + conta_first3.Saldo+ "Deposito: " + conta_first3.Depositar);
         }
     }
 }

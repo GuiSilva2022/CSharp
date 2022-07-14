@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\guica\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\OneDrive - Escola Técnica de Eletrônica\\Área de Trabalho\\CSharp\\FirstProjetc\\FirstProjetc.csproj",
+      "projectUniqueName": "C:\\Users\\guica\\OneDrive\\Área de Trabalho\\CSharp\\FirstProjetc\\FirstProjetc.csproj",
       "projectName": "FirstProjetc",
-      "projectPath": "C:\\Users\\Aluno\\OneDrive - Escola Técnica de Eletrônica\\Área de Trabalho\\CSharp\\FirstProjetc\\FirstProjetc.csproj",
-      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\OneDrive - Escola Técnica de Eletrônica\\Área de Trabalho\\CSharp\\FirstProjetc\\obj\\",
+      "projectPath": "C:\\Users\\guica\\OneDrive\\Área de Trabalho\\CSharp\\FirstProjetc\\FirstProjetc.csproj",
+      "packagesPath": "C:\\Users\\guica\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\guica\\OneDrive\\Área de Trabalho\\CSharp\\FirstProjetc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\guica\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
